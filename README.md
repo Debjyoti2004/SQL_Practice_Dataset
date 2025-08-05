@@ -1,7 +1,7 @@
 # 📘 Repository: sql-practice-dataset
 
 Description:
-This repository contains a large SQL script (insert_users.sql) that creates a sample Users table and inserts over 400 user records. It is built for practicing SQL queries like SELECT, JOIN, GROUP BY, ORDER BY, and more.
+This repository contains a large SQL script (insert_users.sql) that creates a sample Users table and inserts over *600* user records. It is built for practicing SQL queries like SELECT, JOIN, GROUP BY, ORDER BY, and more.
 
 ### Use Case:
 Ideal for students, beginners, or developers who want to improve their SQL skills using real-like bulk data.
